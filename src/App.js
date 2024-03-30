@@ -18,8 +18,8 @@ function App() {
         id: tasks.length + 1,
         task: taskInput,
       };
-      setTasks([...tasks, newTask]); // Add new task to the list of tasks
-      setTaskInput(""); // Clear input field after adding task
+      setTasks([...tasks, newTask]); 
+      setTaskInput(""); 
     }
   };
 
