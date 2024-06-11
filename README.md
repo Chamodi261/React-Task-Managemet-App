@@ -1,4 +1,4 @@
-# React Todo App
+# ✅ React Todo App
 
 This is a simple todo list application built using React. It allows users to add new tasks, mark tasks as done, and delete tasks.
 
@@ -26,4 +26,3 @@ This is a simple todo list application built using React. It allows users to add
 ## Author
 
 [W.D.S.G.C. Dihara]
-
